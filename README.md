@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Backend (Em Formação)`**
 
-Olá! Me chamo Aristeu José de Souza Junior, atualmente tenho 19 anos e sou natural de São Paulo. Concluí o Ensino Médio na ETEC Ferraz de Vasconcelos, com o curso técnico em Administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos. Sou apaixonado por tecnologia e estou em constante desenvolvimento para sempre aprender mais!
+Olá! 
+Me chamo Aristeu José de Souza Junior, atualmente tenho 19 anos e sou natural de São Paulo. Concluí o Ensino Médio na ETEC Ferraz de Vasconcelos, com o curso técnico em Administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos. Sou apaixonado por tecnologia e estou em constante desenvolvimento para sempre aprender mais!
 
 <p align="left">
     <a href="https://www.instagram.com/dockh_?igsh=ZXpwNGZvZGZrNXJt&utm_source=qr">
