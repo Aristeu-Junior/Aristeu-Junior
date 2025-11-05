@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Aristeu Junior
+# 👨🏽‍💻 Aristeu Junior
 
 **`Desenvolvedor Backend (Em Formação)`**
 
