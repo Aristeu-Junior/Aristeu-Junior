@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante%20de%20ADS%20em%20Forma%C3%A7%C3%A3o;Focado%20em%20Back-end%20e%20Automa%C3%A7%C3%A3o;Construindo%20projetos%20Reais;Evolu%C3%A7%C3%A3o%20Constante&center=true&width=600&height=45&color=FF007F&size=22" />
+</p>
+
 # 👨🏽‍💻 Aristeu Junior
 
 **`Desenvolvedor Backend (Em Formação)`**
