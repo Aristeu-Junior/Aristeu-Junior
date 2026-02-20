@@ -14,7 +14,7 @@ Me chamo Aristeu José de Souza Junior, atualmente tenho 19 anos e sou natural d
     <a href="https://www.instagram.com/dockh_?igsh=ZXpwNGZvZGZrNXJt&utm_source=qr">
         <img 
             alt="instagram" 
-            title="Me siga no Instagram" 
+            title="Me siga no Instagram!" 
             src="https://img.shields.io/badge/instagram-sigame?style=for-the-badge&logo=%3Flogo%3Dinsta.gram&color=purple"
         />
     </a>
@@ -29,7 +29,7 @@ Me chamo Aristeu José de Souza Junior, atualmente tenho 19 anos e sou natural d
     <a href="https://github.com/Aristeu-Junior?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Me siga no GitHub!" 
             src="https://custom-icon-badges.demolab.com/github/followers/Aristeu-Junior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
